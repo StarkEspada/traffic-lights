@@ -1,0 +1,221 @@
+.big-container{
+    width: 1000px;
+    height: 1000px;
+}
+
+.housing-traffic-lights{
+	width: 135px;
+    height: 400px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background: gray;
+    margin-left: 250px;
+}
+.traffic-lights-headlight-red{
+	width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 15px;
+    background: white;
+}
+.traffic-lights-headlight-orange{
+	width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin-left: 15px;
+    margin-top: 25px;
+    background: white;
+}
+.traffic-lights-headlight-green{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin-left: 15px;
+    margin-top: 25px;
+    background: white;
+}
+
+.cont{
+    width: 135px;
+    height: 135px;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: -156px;
+    margin-left: 185px;
+    border-radius: 10px;
+    background: gray;
+}
+.housing-traffic-arrow-two-container{
+    width: 100px;
+    height: 100px;
+    background: white;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin-top: 15px;
+    margin-left: 15px
+}
+.housing-traffic-arrow{
+    width: 100px;
+    height: 100px;
+    background: #a5434300;
+    margin-top: 5px;
+    margin-left: 4px;
+}
+.crossbar{
+    width: 50px;
+    height: 25px;
+    background: black;
+    margin-left: 137px;
+    margin-top: -85px;
+    display: inline-block;
+    vertical-align: top;
+}
+.block-two{
+    width: 50px;
+    height: 25px;
+    background: black;
+    margin-left: -53px;
+    margin-top: -64px;
+    display: inline-block;
+    vertical-align: top;
+}
+.crossbar-one{
+    vertical-align: top;
+    width: 135px;
+    height: 135px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: gray;
+    margin-top: -119px;
+    margin-left: -193px;
+    display: inline-block;
+}
+.housing-traffic-arrow-container{
+    width: 100px;
+    height: 100px;
+    background: white;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin-top: 15px;
+    margin-left: 15px;
+    overflow: hidden;
+}
+.housing-traffic-arrow-two{
+    width: 100px;
+    height: 100px;
+    background: #ffffff00;
+    margin-top: -5px;
+    margin-left: -2px;
+}
+.window-container{
+    width: 990px;
+    height: 675px;
+    float: right;
+    margin-top: -350px;
+    margin-right: -533px;
+    background: url(img/uchitelnica-s-ukazkoj-u-doski_017.png);
+    background-size: 100%;
+}
+.bow{
+    width: 25px;
+    height: 378px;
+    background: black;
+    margin-left: 40px;
+    margin-top: 122px;
+}
+.people-container{
+    width: 120px;
+    height: 200px;
+    border: 2px solid black;
+    margin-left: -177px;
+    margin-top: 60px;
+    display: inline-block;
+    background: gray;
+    border-radius: 10px;
+}
+.block-tree{
+    width: 50px;
+    height: 25px;
+    background: black;
+    margin-left: -50px;
+    margin-top: 145px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.people-signal-stop-container{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 2px solid black;
+    background: white;
+    margin-left: 13px;
+    margin-top: 3px;
+}
+.people-signal-walk-container{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 2px solid black;
+    background: white;
+    margin-left: 13px;
+    margin-top: 4px;
+}
+.img-stop-people{
+    width: 40px;
+    height: 65px;
+    margin-left: 25px;
+    margin-top: 13px;
+}
+
+.img-walk-people{
+    width: 40px;
+    height: 65px;
+    margin-left: 25px;
+    margin-top: 13px;
+    
+}
+.quiz-container{
+    width: 580px;
+    height: 375px;
+    border: 2px solid black;
+    margin-left: 65px;
+    margin-top: 35px;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+}
+.quiz{
+    width: 580px;
+    height: 190px;
+    text-align: center;
+    color: white;
+    vertical-align: top;
+}
+.container{
+    width: 580px;
+    height: 100px;
+}
+.answer{
+    width: 215px;
+    height: 80px;
+    border: 2px solid white;
+    display: inline-block;
+    margin-left: 35px;
+    margin-top: 2px;
+    margin-right: 31px;
+    color: white;
+    text-align: center;
+    vertical-align: top;
+}
+.timer{
+    width: 100px;
+    height: 50px;
+    font-size: 75px;
+    margin-top: 5px;
+    text-align: center;
+}

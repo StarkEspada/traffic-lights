@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+<script>
+	
+var i = 31;
+var timerID 
+
+function timer(){
+	i--;
+	if(i == 0){
+	clearInterval(timerID);
+	}	
+console.log(i)
+}
+
+
+function startTimer(){
+	i = 31;
+	timerID = setInterval(timer, 1000)
+	
+}
+startTimer()
+setInterval(startTimer, 32000)
+
+
+
+	
+
+
+
+
+
+
+</script>
+
+</body>
+</html>
